@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou o João Pedrosa
+# João Pedrosa
 - 👀 Eu me interesso por Programação e Música
 - 👨‍🏫 Eu sou  professor de Pensamento Computacional
 - 📫 Meu e-mail é joao.pedrosa@escola.pr.gov.br
